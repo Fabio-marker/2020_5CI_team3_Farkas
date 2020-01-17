@@ -2,6 +2,7 @@ site_name: 2020_5CI_Team3
 nav:
  
     - 'Software Management Plan': 'Software Management Plan.md'
+    - 'Software Requirements Specification': 'software_requirements_specification.md'
 theme:
     name: readthedocs
 
